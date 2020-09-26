@@ -9,9 +9,7 @@ ChunkGroups:
 * ChunkGroup async (parent: main)
   + Chunk asnyc
     - src/Lazy.js
-    - react-bundle.js
-    - src/BigText.js
-
+    
 TODO-List:
 
 x src/index.js -> main

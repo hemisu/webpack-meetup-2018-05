@@ -1,7 +1,7 @@
-(function(__magic__, exports) {
+(function (__magic__, exports, module) {
     var X = __magic__(1);
     var Y = __magic__(2);
-
+    
     exports.default = (function () {
         return X.default.createElement(
             Y.default,

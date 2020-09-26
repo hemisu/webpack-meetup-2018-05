@@ -32,7 +32,6 @@ x react-bundle.js {main} <- not ESM
     # react
     # react-dom
     # ./HelloWorld
-    # react
     # ./BigText
     # (async) ./Lazy
     - react-bundle.js
